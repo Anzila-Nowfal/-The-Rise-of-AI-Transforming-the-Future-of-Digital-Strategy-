@@ -5,15 +5,22 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence proc
 Types of AI:
 
 Narrow AI: Designed for specific tasks (e.g., voice assistants, recommendation systems).
+
 General AI: Hypothetical AI that can perform any intellectual task a human can.
+
 Superintelligent AI: A theoretical AI surpassing human intelligence in all areas.
+
 
 Applications of AI:
 
 Healthcare: AI assists in diagnosis, treatment planning, and drug discovery.
+
 Finance: Used in fraud detection, trading, and customer support.
+
 Marketing: Enhances customer segmentation, content personalization, and chatbots.
+
 Transportation: Powers autonomous vehicles and smart traffic systems.
+
 
 Benefits of AI:
 
@@ -26,8 +33,11 @@ Automates repetitive tasks
 Enables data-driven decision-making
 
 Challenges and Concerns:
+
 Job displacement due to automation
+
 Ethical issues like bias and privacy
+
 Lack of transparency (black box problem)
 
 
