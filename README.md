@@ -25,6 +25,49 @@ Challenges and Concerns:
 Job displacement due to automation
 Ethical issues like bias and privacy
 Lack of transparency (black box problem)
+
+As a freelance digital marketer in Trivandrum, I help businesses to grow their online businesses through SEO, SMM, SEM, and web design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Security risks from misuse
 
 Conclusion:
